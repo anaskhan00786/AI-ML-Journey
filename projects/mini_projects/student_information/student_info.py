@@ -14,4 +14,4 @@ print("YEAR:",year)
 print("CGPA:",cgpa)
 print("###################")
 
-print(f"your full name is {name} and you are studying in {college}in {year}year")
+print(f"your full name is {name} and you are studying in {college} in {year}year")
